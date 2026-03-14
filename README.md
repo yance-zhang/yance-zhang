@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Yance Zhang 👋
 
-<!--
-**yance-zhang/yance-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with 7+ years experience building web applications.
 
-Here are some ideas to get you started:
+Currently studying Software Development at SAIT in Canada.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+React / Next.js / Vue  
+TypeScript / JavaScript  
+TailwindCSS / Ant Design  
+Node.js / Express  
+Web3 (Wagmi, Viem)
+
+## Featured Projects
+
+- holoworld-airdrop
+- puffer-admin-dashboard 
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/yance-zhang/
+Email: yance.zhang516@gmail.com
+
